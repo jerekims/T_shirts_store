@@ -38,7 +38,7 @@ include('inc/header.php');
 	     		<table>
 	     			<tr>
 	     				<th>
-	     					<label for="name">Enter Your Name:
+	     					<label for="name">Enter Your  Full Name:
 	     					</label>
 	     				</th>
 	     				<td> <input type="text" name="name" id="name"></td>
